@@ -89,10 +89,6 @@ constructor(props){
                 </Text>
             </View>
 
-            <TouchableHighlight >
-                  Play
-            </TouchableHighlight>
-
         </Image>
     );
   }
